@@ -4,6 +4,8 @@
 
 - 🔭 Atualmente estou em busca de uma oportunidade como desenvolvedor.
 - 🌱 Estou aprendendo Angular e .Net.
+- 📝 Bootcamp Pottencial DIO C#|.NET - Em andamento!
+- 📝 Bootcamp Codigo do futuro Gama-Academy Angular|.Net - Em Andamento!
 
 <div align="center">
   <a href="https://github.com/DWERNER12">
