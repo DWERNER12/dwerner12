@@ -1,16 +1,16 @@
 
 
-### Olá! Eu sou o David 😃🖖
+### Olá! Eu sou o David
 
 - 🔭 Atualmente estou em busca de uma oportunidade como desenvolvedor.
-- 🌱 Estou aprendendo Angular e .Net.
+- 🖥️ Desenvolvedor Full Stack Asp.Net Core 
 - ✔ Bootcamp Pottencial DIO C#|.NET - Concluído!
 - ✔ Bootcamp Codigo do futuro Gama-Academy Angular|.Net - Concluído!
 
 <div align="center">
   <a href="https://github.com/DWERNER12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DWERNER12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DWERNER12&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DWERNER12&layout=compact&langs_count=8&theme=dark&hide=css,php,scss&size_weight=0.5&count_weight=0.5"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
